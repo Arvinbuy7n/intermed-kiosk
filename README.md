@@ -5,6 +5,7 @@ cut only exercises the kiosk hardware; payments and the CRM back-end connection
 come later.
 
 ## What is here
+claude --resume 75bf3119-b547-484b-9c17-43b21c60e922
 
 | Path | Purpose |
 | --- | --- |
